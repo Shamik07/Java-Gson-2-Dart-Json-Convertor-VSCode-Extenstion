@@ -1,4 +1,4 @@
-# javaGsonToDartJsonConvertor README
+# Java Gson To Dart Json Convertor README
 
 This is the README for your extension "Java Gson To Dart Json Convertor". After writing up a brief description, we recommend including the following sections.
 
